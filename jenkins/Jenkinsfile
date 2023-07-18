@@ -3,7 +3,7 @@ pipeline {
         label 'test'
     }
     tools {
-        maven  "mvn3"
+        maven  'mvn3'
         
     }
     stages {
